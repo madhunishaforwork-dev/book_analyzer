@@ -138,8 +138,7 @@ The app uses custom CSS for styling. Modify the inject_custom_css() function to 
 Extending Export Formats
 Add new export formats in the create_comprehensive_document() function.
 
-📸 Screenshots
-(Add your screenshots here)
+
 
 Main Interface: Show the upload and analysis dashboard
 
