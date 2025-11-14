@@ -1,8 +1,5 @@
 AI Book Analyzer Pro
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/Streamlit-1.28%252B-red
-https://img.shields.io/badge/License-MIT-green
-https://img.shields.io/badge/Status-Production%2520Ready-brightgreen
+
 
 A powerful AI-powered web application that automatically analyzes books and documents to generate comprehensive summaries, important questions, FAQs, and enables interactive Q&A about the content.
 
